@@ -1,3 +1,4 @@
+/* Kermit der Frosch */
 const kermitDerFrosch = {
     Schaupieler: "Kermit der Frosch",
     geburtsjahr: 1955,
@@ -5,7 +6,7 @@ const kermitDerFrosch = {
     geschlecht: "Froschisch",
     letzterGespielteFilm:"Muppet Babies" 
 };
-
+/* Akira */
 const akira = {
     Schaupieler: "AKIRA",
     geburtsjahr: 1988,
@@ -13,7 +14,7 @@ const akira = {
     geschlecht: "Mänlich",
     letzterGespielteFilm:"Akira Kinofilm" 
 };
-
+/* Edwart Norten */
 const edwartNorten = {
     Schaupieler: "Edward Norten",
     geburtsjahr: 1969,
