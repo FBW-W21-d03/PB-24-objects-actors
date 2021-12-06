@@ -19,9 +19,21 @@ const edwartNorten = {
     letzterGespielteFilm:"Das Gesetz der Ehre" 
 };
 
-/*
-console.log(Neviges); 
-console.log("Einwohner:",Neviges.Einwohner);
-console.log("Das Bundesland:",Neviges.Bundesland);
-console.log("Das Gründungsjahr:",Neviges.Gründungsjahr);
-console.log("Sehenswürdigkeiten in Neviges:",Neviges.Sehenswürdigkeiten); */
+/* Schauspieler eins ausgabe */
+console.log(kermitDerFrosch); 
+console.log("geburtsjahr:",kermitDerFrosch.geburtsjahr);
+console.log("wohnort:",kermitDerFrosch.wohnort);
+console.log("geschlecht:",kermitDerFrosch.geschlecht);
+console.log("letzer Film:",kermitDerFrosch.letzterGespielteFilm);
+/* Schauspieler zwei ausgabe */
+console.log(akira); 
+console.log("geburtsjahr:",akira.geburtsjahr);
+console.log("wohnort:",akira.wohnort);
+console.log("geschlecht:",akira.geschlecht);
+console.log("letzer Film:",akira.letzterGespielteFilm);
+/* Schauspieler drei ausgabe */
+console.log(edwartNorten); 
+console.log("geburtsjahr:",edwartNorten.geburtsjahr);
+console.log("wohnort:",edwartNorten.wohnort);
+console.log("geschlecht:",edwartNorten.geschlecht);
+console.log("letzer Film:",edwartNorten.letzterGespielteFilm);
