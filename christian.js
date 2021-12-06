@@ -30,3 +30,9 @@ schauspieler2.push(ewanMcGregor); // füge zum Array hinzu
 schauspieler2.push(charlizeTheron); // füge zum Array hinzu
 schauspieler2.push(zendaya); // füge zum Array hinzu
 console.log("Schauspieler2:", schauspieler);
+
+// Ausgabe gibt eine Liste (Array) von Objekten aus
+
+// Beobachtung: man kann von der Ausgabe nicht ableiten
+// wie der/die Schauspieler/-in heißt. Sollte vielleicht
+// als weitere Eigenschaft im Objekt drinstehen.
