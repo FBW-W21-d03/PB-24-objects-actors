@@ -1,4 +1,5 @@
 const kermitDerFrosch = {
+    Schaupieler: "Kermit der Frosch",
     geburtsjahr: 1955,
     wohnort: "USA",
     geschlecht: "Froschisch",
@@ -6,6 +7,7 @@ const kermitDerFrosch = {
 };
 
 const akira = {
+    Schaupieler: "AKIRA",
     geburtsjahr: 1988,
     wohnort: "Japan",
     geschlecht: "Mänlich",
@@ -13,6 +15,7 @@ const akira = {
 };
 
 const edwartNorten = {
+    Schaupieler: "Edward Norten",
     geburtsjahr: 1969,
     wohnort: "USA",
     geschlecht: "Mänlich",
