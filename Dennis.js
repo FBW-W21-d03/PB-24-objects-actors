@@ -24,7 +24,7 @@ const reynolds = {
 
 // Aufgabenstellung - Teil 2
 
-let schauspieler = ["deniro","alpacino","reynolds"];
+let schauspieler = [deniro,alpacino,reynolds];
 console.log(schauspieler);
 
 
