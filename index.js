@@ -25,15 +25,18 @@ console.log("geburtsjahr:",kermitDerFrosch.geburtsjahr);
 console.log("wohnort:",kermitDerFrosch.wohnort);
 console.log("geschlecht:",kermitDerFrosch.geschlecht);
 console.log("letzer Film:",kermitDerFrosch.letzterGespielteFilm);
+console.log("kermit der frosch");
 /* Schauspieler zwei ausgabe */
 console.log(akira); 
 console.log("geburtsjahr:",akira.geburtsjahr);
 console.log("wohnort:",akira.wohnort);
 console.log("geschlecht:",akira.geschlecht);
 console.log("letzer Film:",akira.letzterGespielteFilm);
+console.log("Akira");
 /* Schauspieler drei ausgabe */
 console.log(edwartNorten); 
 console.log("geburtsjahr:",edwartNorten.geburtsjahr);
 console.log("wohnort:",edwartNorten.wohnort);
 console.log("geschlecht:",edwartNorten.geschlecht);
 console.log("letzer Film:",edwartNorten.letzterGespielteFilm);
+console.log("Edwart Norten");
