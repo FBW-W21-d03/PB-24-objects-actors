@@ -24,6 +24,15 @@ const Natalie_Portman = {
 
 // Tei 2
 
-let schauspieler =[ "leonardo_Dicaprio" , "Tom_Hardy " , "Natalie_Portman"];
+ let schauspieler =[ leonardo_Dicaprio , Tom_Hardy , Natalie_Portman];
 
-console.log(schauspieler);
+ console.log(schauspieler);
+
+//  ANDERE LÖSUNG:
+
+// let schauspieler =[];
+// schauspieler.push(leonardo_Dicaprio);
+// schauspieler.push(Tom_Hardy);
+// schauspieler.push(Natalie_Portman);
+
+// console.log(schauspieler);
