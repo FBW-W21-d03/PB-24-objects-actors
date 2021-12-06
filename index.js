@@ -22,5 +22,5 @@ const WillSmith={
     
 }
 
-let schauspiler= [JohnnyDeep,AngelinaJolie,WillSmith]
+let schauspiler= ["Johny Deep:",JohnnyDeep,"Angeline Jolie:",AngelinaJolie,"Will Smith:",WillSmith]
 console.log(schauspiler)
