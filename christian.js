@@ -25,8 +25,8 @@ let schauspieler = [ewanMcGregor, charlizeTheron, zendaya];
 console.log("Schauspieler:", schauspieler);
 
 // Teil 2 - Möglichkeit 2:
-let schauspieler2 = [];
-schauspieler2.push(ewanMcGregor);
-schauspieler2.push(charlizeTheron);
-schauspieler2.push(zendaya);
+let schauspieler2 = []; // leeres Array
+schauspieler2.push(ewanMcGregor); // füge zum Array hinzu
+schauspieler2.push(charlizeTheron); // füge zum Array hinzu
+schauspieler2.push(zendaya); // füge zum Array hinzu
 console.log("Schauspieler2:", schauspieler);
