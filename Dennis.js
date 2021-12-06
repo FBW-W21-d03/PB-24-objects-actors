@@ -1,6 +1,6 @@
 // Aufgabenstellung - Teil 1
 
-
+// Robert de Niro
 const deniro = {
     Geburtsjahr : "17.08.1943",
     Wohnort : "New York",
@@ -8,6 +8,7 @@ const deniro = {
     LetzterGespielterFilm :"Killers of the Flower Moon"
 };
 
+// Al Pacino
 const alpacino = {
   Geburtsjahr: "25.04.1940",
   Wohnort: "New York",
@@ -15,6 +16,7 @@ const alpacino = {
   LetzterGespielterFilm: "House of Gucci",
 };
 
+// Ryan Reynolds
 const reynolds = {
   Geburtsjahr: "23.10.1976",
   Wohnort: "Beverly Hills",
