@@ -5,7 +5,7 @@ const ShahRukhKhan = {
     LetzterGespielterFilm :"Zero"
 };
 
-// Al Pacino
+
 const IrfanKhan = {
   Geburtsjahr: "07.01.1967",
   Wohnort: "Mumbai",
